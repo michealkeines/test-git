@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "fdd1d986acf44e2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8b837dc95245e1e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Commit.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "199cea7ae373bbdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "16369c780a9af9ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48c8535fffd1212c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b31c5e9f1d6b507d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63740d79851c6ce9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6528b0803668e65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a04e8f4dd852adf8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Commit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f8b837dc95245e1e",
+  "lastOpenFiles": [
+    "Commit.md"
+  ]
+}
